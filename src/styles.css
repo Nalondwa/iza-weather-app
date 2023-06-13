@@ -1,0 +1,18 @@
+body {
+  margin: 60px;
+  font-family: Dosis, "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 30px;
+}
+.icons {
+  font-size: 50px;
+}
+
+.col {
+  font-size: 40px;
+  font-weight: 600px;
+}
