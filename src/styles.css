@@ -11,8 +11,19 @@ h2 {
 .icons {
   font-size: 50px;
 }
+.current-button {
+  background-color: #317990;
+  border-color: #317990;
+}
 
 .col {
   font-size: 40px;
   font-weight: 600px;
+  display: inline-block;
+}
+.container-box {
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  margin: 20px 0;
+  max-width: 630px;
+  padding: 20px 16px 24px 16px;
 }
